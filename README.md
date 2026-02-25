@@ -1,3 +1,5 @@
+![](img/KurrawongAI_350.png)
+
 # Address Model Training
 
 This repository contains the source files for [KurrawongAI](https://kurrawong.ai)'s online, interactive, training for the [ICSM ANZ Address Model](https://linked.data.gov.au/def/addr).
