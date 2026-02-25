@@ -24,13 +24,15 @@ The training in this repositories' course is presented in 4 modules which aim to
 
 The Jupyter Notebook files for each, `module-1.ipybn` etc. outline their content.
 
-## More about the online resources
+## Training resources
 
 This training uses [Jupyter Notebooks](https://jupyter.org/) which are programming script files that contain both executable code and documentation. In this case the executable code is written in [Python](https://www.python.org/) and the documentation is written in the simple [Markdown](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html) format. These notebooks allow you to read about a scenario, execute provided code for it, see the results from execution - print-outs but also errors etc. - and even alter the executable code to try out new things, all within the system. Usually people who are just using Notebooks, instead of developing them, view them in web browsers that render the notebooks online for them and execute the code on a server, allowing them to not have to install anything, but they can also be run locally using a coding tool like [PyCharm](https://www.jetbrains.com/pycharm/).
 
 ### Run online
 
-To run the first of the training modules given here online, just click on 
+To run the first of the training modules given here online, just click on:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kurrawong/address-model-training/blob/main/module-1.ipynb/HEAD)
 
 ### More ways to run
 
@@ -53,7 +55,7 @@ The documentation and code in this repository are licensed for reuse under the [
 &copy; KurrawongAI, 2026
 
 > [!NOTE]
-> Please do _not_ present commercial training with this material without first contacting KurrawonAI
+> Please do _not_ present commercial training with this material without first contacting KurrawongAI
 
 ## Contact
 
