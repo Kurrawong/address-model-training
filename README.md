@@ -30,9 +30,9 @@ This training uses [Jupyter Notebooks](https://jupyter.org/) which are programmi
 
 ### Run online
 
-To run the first of the training modules given here online, just click on:
+To run these modules online using [MyBinder](https://mybinder.org/), just click:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kurrawong/address-model-training/blob/main/module-1.ipynb/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kurrawong/address-model-training/HEAD)
 
 ### More ways to run
 
