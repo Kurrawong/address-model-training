@@ -1,4 +1,4 @@
-![](img/KurrawongAI_350.png)
+![](module-1/img/KurrawongAI_350.png)
 
 # Address Model Training
 
