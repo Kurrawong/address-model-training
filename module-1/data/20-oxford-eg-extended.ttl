@@ -10,6 +10,7 @@ PREFIX geo: <http://www.opengis.net/ont/geosparql#>
 PREFIX ls: <https://linked.data.gov.au/def/lifecycle/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX schema: <https://schema.org/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 <http://example.com/oxford>
     a addr:Address ;
@@ -55,6 +56,6 @@ PREFIX schema: <https://schema.org/>
     ls:hasLifecycleStage [
         a ls:LifecycleStage ;
         schema:additionalType ex:Unofficial ;
-        schema:startTime "1932"^^xsd:date ;
+        schema:startTime "1932-05-26"^^xsd:date ;
     ] ;
 .
