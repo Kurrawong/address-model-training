@@ -1,0 +1,11 @@
+# Assuming the in-use addresses are approved to be recorded:
+#
+# 1. Register all private roads - status of Road to indicate private (not recognised by council)
+# 2. Ensure in-use addresses and administrative addresses can indicate Addressable Objects in a common manner
+# 3. Use Address Status Types vocab (https://linked.data.gov.au/def/addr-status-type) to indicate official-ness of Addresses
+# 4. Allow Addressable Objects to have ID but no geometry in business rules
+#
+# Unit Type -> SubAddress Type (https://linked.data.gov.au/def/subaddress-types)
+#
+# Address Site: Parent address with Property as the Addressable Object, ID 1817544
+#               Child addresses have AOs of the Parcels within the Property

@@ -1,0 +1,3 @@
+# Hinges on only defining the allowable classes of Addressable Object, as per https://linked.data.gov.au/def/cad
+#
+# SubAddresses related to parent by cadastral object relations

@@ -1,0 +1,3 @@
+# The GURAS attachment issue isn't a model problem!
+#
+# Define the Addressable Object to be the smalled cadastral unit (the whole National Park?) and differentiate with Geocodes

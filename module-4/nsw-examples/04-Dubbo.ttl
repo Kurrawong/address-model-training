@@ -1,0 +1,4 @@
+# Add non-standard Street Number suffixes with notes on them bing not recommended for use
+# Add in a validation rul to ensure they are only found in expected area (Councils)
+#
+# Incompleteness: a business rule to allow an address without a street number or name.

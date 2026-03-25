@@ -1,0 +1,8 @@
+#
+# Property Name and Building Name can are different Address Part Types (http://linked.data.gov.au/def/address-part-types)
+# Byron
+# Majors Bay
+# 302/15 Bennett St
+# Canada Bay
+#
+# Template to indicate Building/Property name difference
